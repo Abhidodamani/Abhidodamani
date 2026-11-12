@@ -98,6 +98,7 @@ Real-time computer vision pipeline using CNN and OpenCV for object detection and
 ## 💼 Experience
 
 ### Python & Systems Support Engineer Intern
+
 **Q TechSolutions Pvt. Ltd.**
 
 - Diagnosed and fixed backend/API issues.
@@ -107,6 +108,7 @@ Real-time computer vision pipeline using CNN and OpenCV for object detection and
 - Followed testing, documentation and release SOPs.
 
 ### Python Development Intern
+
 **Infotact Solutions**
 
 - Built and debugged backend automation tools and APIs.
@@ -114,6 +116,7 @@ Real-time computer vision pipeline using CNN and OpenCV for object detection and
 - Participated in code reviews and documentation.
 
 ### Data Science & Analytics Intern
+
 **Zidio Development**
 
 - Built Power BI dashboards and status reports.
@@ -123,15 +126,15 @@ Real-time computer vision pipeline using CNN and OpenCV for object detection and
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](./profile/stats.svg)
-
 <div align="center">
+
+<img src="./profile/stats.svg" alt="GitHub Stats">
+
+<br><br>
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=Abhidodamani&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub streak">
 
 </div>
-
-> **Stats cards will be added after we deploy your self-hosted GitHub Readme Stats server.**
 
 ---
 
@@ -162,7 +165,6 @@ PRIST Deemed to be University
 - Power BI for Data Analytics
 - Machine Learning / AI
 - 36-HOUR DATA STRUCTURE ANALYSIS TRAINING
-  
 
 ---
 
@@ -170,7 +172,12 @@ PRIST Deemed to be University
 
 <div align="center">
 
-## 🌐 Connect With Me
+<a href="https://www.linkedin.com/in/abhishek-dodamani/">
+<img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Dodamani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Dodamani-blue?logo=linkedin)](https://www.linkedin.com/in/abhishek-dodamani/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:pdabhishek162@gmail.com)
+<a href="mailto:pdabhishek162@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email">
+</a>
+
+</div>
