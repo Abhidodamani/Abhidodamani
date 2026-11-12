@@ -123,6 +123,8 @@ Real-time computer vision pipeline using CNN and OpenCV for object detection and
 
 ## 📊 GitHub Statistics
 
+![GitHub Stats](./profile/stats.svg)
+
 <div align="center">
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=Abhidodamani&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub streak">
@@ -168,4 +170,7 @@ PRIST Deemed to be University
 
 <div align="center">
 
-<a
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Dodamani-blue?logo=linkedin)](https://www.linkedin.com/in/abhishek-dodamani/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:pdabhishek162@gmail.com)
